@@ -1,3 +1,5 @@
-class Constants {
-  static const String mssv = "6451071022";
+import 'package:flutter/material.dart';
+
+class AppColors {
+  static const deleteColor = Colors.red;
 }

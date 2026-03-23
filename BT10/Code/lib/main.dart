@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'apps/app.dart';
+import 'apps/bai10_app.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const Bai10App());
 }
